@@ -9,3 +9,7 @@
 - init=/bin/bash
 - passwd root
 - reboot -f
+
+- adduser xxx - linux
+- useradd xxx - c7
+- usermod -aG wheel xxx
